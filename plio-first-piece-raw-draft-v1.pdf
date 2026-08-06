@@ -1,0 +1,171 @@
+# First Piece — Plio (Working Draft)
+
+> **Status:** Draft v1 (Looking for direction, not polish)
+
+## Purpose
+
+This is my first attempt at turning a Canonical into a story.
+
+The direction I'm exploring is:
+
+- Start from a philosophy already present on the website.
+- Use a real client engagement to make that philosophy tangible rather than explaining it directly.
+- This is intentionally rough. I'm sharing it early so the thinking can be shaped before the writing is polished.
+
+---
+
+# Preserving Clarity as Products Grow
+If you're building software that people genuinely depend on, there comes a point where the conversations begin to change.
+
+Nothing has failed.
+
+The product works.
+
+People use it every day.
+
+New features continue to ship.
+
+From the outside, everything appears healthy.
+
+Yet something begins to feel different.
+
+In one of the early conversations around Plio, someone paused and said something that stayed with us.
+
+"It's not that anything is broken… it's just getting harder to explain how all of this fits together now."
+
+That sentence wasn't describing a bug.
+
+It wasn't describing performance.
+
+It wasn't even describing technology.
+
+It was describing the growing distance between the product and the team's shared understanding of it.
+
+As Plio evolved, every decision made sense on its own.
+
+Dashboards.
+
+Analytics.
+
+Creator workflows.
+
+Teacher experiences.
+
+Reporting.
+
+Permissions.
+
+Each addition solved a real problem.
+
+None of them felt unnecessary.
+
+Yet together they introduced a new kind of complexity.
+
+Not because the system was becoming poorly built.
+
+But because the system had become something larger than any single feature.
+
+Another conversation revealed the same pattern.
+
+"Every time we touch one part, we end up worrying about what else it might affect."
+
+Again, this wasn't fear.
+
+It was responsibility.
+
+The team had reached a point where changing one part of the product required confidence in everything connected to it.
+
+The challenge wasn't writing code.
+
+It was preserving understanding.
+
+This is a point many growing products quietly arrive at.
+
+The work no longer revolves around adding the next feature.
+
+Instead, the product begins asking different questions.
+
+Can new people understand how this works?
+
+Can decisions made today still make sense six months from now?
+
+Will today's shortcut become tomorrow's constraint?
+
+Can different teams still share the same mental model of the system?
+
+Those aren't scaling questions.
+
+They're clarity questions.
+
+One of the earliest moments this responsibility surfaced in Plio appeared during a discussion around testing.
+
+The question wasn't whether an individual feature worked.
+
+It became something deeper.
+
+How do we know the system still behaves as expected when a real teacher opens it, on a real browser, under real classroom conditions?
+
+The conversation had shifted.
+
+Testing wasn't about verifying features anymore.
+
+It was about trusting the system.
+
+That changed the nature of the work.
+
+The important conversations slowed down.
+
+Instead of immediately solving problems, more time was spent understanding them.
+
+Instead of asking what should be built next, the team spent time reconnecting every decision back to the larger system.
+
+From the outside, that can feel slower.
+
+In reality, it protects everything that comes after.
+
+Over time, another realization emerged.
+
+Products don't usually become difficult because they grow.
+
+They become difficult when understanding grows more slowly than the product itself.
+
+Every new capability increases the surface area of decisions.
+
+Every new workflow introduces another relationship.
+
+Every new integration creates another dependency.
+
+Growth isn't the problem.
+
+Losing clarity is.
+
+Looking back, that's the shift Plio represents.
+
+The project didn't simply need more engineering.
+
+It needed someone willing to preserve clarity, intent and direction while the product continued to evolve.
+
+Because the goal wasn't simply to help Plio become larger.
+
+The goal was to help it remain understandable.
+
+Even as everything around it changed.
+
+---
+
+# Working Notes
+
+## Philosophy I'm exploring
+
+> "The focus is not on scale. It's on preserving clarity, intent, and direction over time—even as needs change."
+
+## Canonical moments
+
+- "It's not that anything is broken..."
+- "Every time we touch one part..."
+
+## Questions I'm exploring
+
+- Does this story naturally make the philosophy visible?
+- Am I staying close enough to the client's experience?
+- Am I explaining too much instead of letting the story show it?
