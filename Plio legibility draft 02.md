@@ -1,8 +1,10 @@
 # Nothing Is Broken. So Why Does Everything Feel Slower?
 
-A product can grow for years without anything going obviously wrong.
+You built something real. It started as an idea, and now it's live — people use it every day, and every decision that got you here made sense when you made it.
 
-A team builds a feature. It makes sense. They build the next one. It also makes sense. A dashboard gets added, then reporting, then permissions, then a second kind of user. Each decision solves something real at the time. The product works. People depend on it. The team knows its own parts. What gets harder to hold onto is the picture of how all those parts fit together — a picture that usually started small, in a handful of people's heads, back when the system itself was small, and grew through conversation rather than documentation, at its own pace, while the product grew at a different one.
+A product can grow for years like that without anything going obviously wrong. A team builds a feature. It makes sense. They build the next one. It also makes sense. A dashboard gets added, then reporting, then permissions, then a second kind of user. The product works. People depend on it. Everyone knows their part.
+
+What gets harder to hold onto is the picture of how all those parts fit together — a picture that started small, in a handful of people's heads, back when the system itself was small. It grows through conversations, decisions and fixes, but not always at the same pace as the product itself. Eventually, everyone can explain their own part. What gets harder is explaining the whole.
 
 We watched a version of this play out in Plio, an education platform(https://www.plio.in/) we partnered with from 2021 to 2023. Plio already had a working product when they came to us — it had run for months, with real users, the idea already proven. They had a clear idea of where they wanted to take the platform next. Along the way they'd run into a list of problems — components breaking, integrations giving way, shipping getting slower — but underneath all of them was a harder question: could the system, as it stood, actually carry the product where they wanted it to go?
 
