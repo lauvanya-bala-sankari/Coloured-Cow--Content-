@@ -16,4 +16,6 @@ Plio's own team was part of that process, not handed a finished result at the en
 
 Testing brought the same question back in a different form. Plio's teachers worked mostly in controlled desktop settings. Students were the ones reaching the platform from everywhere — a wide range of phones, often a parent's, across Android browsers that don't all behave quite the same. The conditions the system actually had to survive were wider than anyone on the team could hold in their head at once. Rather than test for everything and imply a certainty nobody had, the team said plainly what had actually been covered and what hadn't.
 
+None of it came from a single fix. It came from the same habit, applied again and again: making the system explainable before making it bigger.
+
 If any of this sounds like where your product is right now — still working, just harder to explain than it used to be — you're not behind. What's worth asking from here is simple: can the people running it still explain, honestly, how it holds together?
