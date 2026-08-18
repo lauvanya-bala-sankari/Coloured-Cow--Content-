@@ -1,6 +1,6 @@
 hi Prateek, 
 
-      congratulations. having started as a small idea into a working product that is running for months and having real users. your product worked and people are depending on it. That's real and huge! but for a product that has reached this stage may also experience many problems along the way to actually reach that visionary next stage of the product. some of them are components breaking, integrations giving away, shipping getting slower and much more.to be more precise. Check if you have encounter any of the situations below ,
+congratulations. having started as a small idea into a working product that is running for months and having real users. your product worked and people are depending on it. That's real and huge! but for a product that has reached this stage may also experience many problems along the way to actually reach that visionary next stage of the product. some of them are components breaking, integrations giving away, shipping getting slower and much more.to be more precise. Check if you have encounter any of the situations below ,
       
  1, having a half second flinch before approving a change that used to be routine.
  
