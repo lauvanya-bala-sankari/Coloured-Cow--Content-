@@ -67,11 +67,13 @@ And some things simply needed a simpler form.
 
 Making yourself explain a system is what reveals the parts nobody can explain. Simplicity arrives as a by-product. Aiming for elegance won't get you there.
 
-### First, We Made It Make Sense
+### We Made It Make Sense
 
 That's essentially what we were trying to do with Plio: make the product legible again.
 
-Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
+The picture is rebuilt by explaining the system out loud, part by part, and writing down what that reveals.
+
+Not by a rewrite. Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
 
 We needed to create a shared understanding of what the product was, how it worked, and what it needed to become.
 
