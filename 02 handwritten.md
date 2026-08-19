@@ -75,12 +75,6 @@ The picture is rebuilt by explaining the system out loud, part by part, and writ
 
 Not by a rewrite. Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
 
-We needed to create a shared understanding of what the product was, how it worked, and what it needed to become.
-
-The product doesn't become clearer because you make it more sophisticated.
-
-It becomes clearer when the people building it can explain why it exists the way it does.
-
 The goal isn't to make the product elegant on paper. It's to make the next version obvious.
 
 As the product evolves, shared understanding tends to devolve.
