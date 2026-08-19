@@ -67,7 +67,6 @@ And some things simply needed a simpler form.
 
 Making yourself explain a system is what reveals the parts nobody can explain. Simplicity arrives as a by-product. Aiming for elegance won't get you there.
 
-
 ### First, We Made It Make Sense
 
 That's essentially what we were trying to do with Plio: make the product legible again.
@@ -76,7 +75,16 @@ Not by documenting everything that existed. Not by adding another layer of proce
 
 We needed to create a shared understanding of what the product was, how it worked, and what it needed to become.
 
+The product doesn't become clearer because you make it more sophisticated.
+
+It becomes clearer when the people building it can explain why it exists the way it does.
+
 The goal isn't to make the product elegant on paper. It's to make the next version obvious.
+
+As the product evolves, shared understanding tends to devolve.
+
+Making the system explainable before making it bigger is the fix.
+
 
 
 
