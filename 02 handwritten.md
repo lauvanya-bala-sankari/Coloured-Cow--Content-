@@ -13,7 +13,7 @@ Someone asks, “If we change this, what else does it affect?” And the room go
 You can explain what two parts of the product do. But you can't quite explain why changing one quietly changes the other.
 A feature that should take two days takes two weeks.
 New engineers take longer to become useful.
-Your best engineer says, “Let me check,” about a system they built themselves.
+You ask the engineer who knows the system best what a change will affect. The answer is, “Let me check.”
 
 Everyone of these problems is survivable. That's the frustrating part. Because nothing is obviously broken. The product still works. Users are still using it. The team is still shipping.
 
@@ -25,7 +25,7 @@ The system has grown, but the shared understanding of the system hasn't kept up.
 
 ### We Saw This at Plio
 
-Plio, an education platform we partnered with from 2021 to 2023, had already proved its idea as a working product with real users.
+Plio, an education platform (https://www.plio.in/) we partnered with from 2021 to 2023, had already proved its idea as a working product with real users.
 
 But as the product evolved, the team ran into a familiar problem: the product was still working. Nothing was obviously broken. But it was becoming harder to explain what the product meant as a whole.
 
