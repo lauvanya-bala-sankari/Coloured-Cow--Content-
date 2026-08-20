@@ -1,0 +1,1 @@
+the product is like a child to a founder. like every parent , the founder wants the child to acheive its fullest potential. that may sound ambitious but its not, its the whole purpose of life to live our lives in our fullest potential in whatever we do.o
