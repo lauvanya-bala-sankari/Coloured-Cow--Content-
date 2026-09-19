@@ -1,4 +1,4 @@
-### Before you build more: Define the product again.
+### A Working Product Can Still Lose Its Way
 
 Your product has been working for months. You have real users, real workflows, real engineers.
 And then, at some point, nothing is obviously broken—but you start wondering: If we keep building the way we are today, will this product actually take us where we want to go?
