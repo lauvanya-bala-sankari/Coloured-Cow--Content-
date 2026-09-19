@@ -69,17 +69,20 @@ Making yourself explain a system is what reveals the parts nobody can explain. S
 
 ### We Made It Make Sense
 
-That's essentially what we were trying to do with Plio: make the product legible again.
+As the product evolves, shared understanding tends to devolve. The product keeps working, but somewhere along the way, the direction gets harder to see.
 
-The picture is rebuilt by explaining the system out loud, part by part, and writing down what that reveals.
+And that's how a working product can slowly lose its way.
+
+That's essentially what we were trying to do with Plio: make the product legible again.
 
 Not by a rewrite. Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
 
+Instead, the picture is rebuilt by explaining the system out loud, part by part, and writing down what that reveals.
+
+Understanding what you have built is a fundamental part of building what comes next. It gives you a clearer direction to move in.
+
 The goal isn't to make the product elegant on paper. It's to make the next version obvious.
 
-As the product evolves, shared understanding tends to devolve.
-
-Making the system explainable before making it bigger is the fix.
 
 
 
