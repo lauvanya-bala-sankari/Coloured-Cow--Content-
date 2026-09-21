@@ -1,7 +1,11 @@
 ### A Working Product Isn’t Always a Legible Product
-Why making your product legible again matters before you build more.
+Why a product that works still needs one clear picture before it can go where it was meant to go.
 
-Your product has been working for months. You have real users, real workflows, real engineers. And then, at some point, nothing is obviously broken—but you start wondering: If we keep building the way we are today, will this product actually take us where we want to go? If the honest answer is “I’m not really sure,” it may be time to stop building for a moment and define the product again.
+Your product works. Real users, real workflows, real engineers. It has been shipping for months.
+
+So when someone asks, "Will this take us where we meant to go?", the easy answer is yes. Why wouldn't it? Nothing is broken.
+
+But you notice you hesitate before saying it.
 
 ### Nothing is Broken, Really ?
 The problem isn't that something has broken. The problem is that you're starting to lose the ability to know what might break.
@@ -22,7 +26,9 @@ The product has become less legible.
 ### We Saw This at Plio
 
 Plio, an education platform (https://www.plio.in/) we partnered with from 2021 to 2023, had already proved its idea as a working product with real users.
-But as the product evolved, the team ran into a familiar problem. In one of our early conversations about Plio, the sentiment in the room was clear: nothing was obviously broken, but it was getting harder to explain how all of this fit together.
+But as the product evolved, the team ran into a familiar problem. 
+
+In one of our early conversations about Plio, the sentiment in the room was clear: nothing was obviously broken, but it was getting harder to explain how all of this fit together.
 
 The clearest sign showed up in their dashboards.
 
@@ -36,7 +42,7 @@ Nobody was reading the numbers wrong.
 
 They just weren't reading the same thing.
 
-And that was the problem.
+And that was the problem.One number, two pictures of how things were going. A team can't head somewhere together when it doesn't share a picture of where it stands
 
 ### So We Started With Design
 
