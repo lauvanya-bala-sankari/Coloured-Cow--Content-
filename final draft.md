@@ -18,6 +18,7 @@ New engineers take longer to become useful.
 You ask the engineer who knows the system best what a change will affect. The answer is, “Let me check.”
 
 Everyone of these problems is survivable. That's the frustrating part. Because nothing is obviously broken. 
+
 But underneath all of this, something has changed. Everyone can explain their own part. No one can quite explain how all of it fits together anymore. And when you look closely, the common thread becomes clear:
 
 The product has become less legible
@@ -34,9 +35,11 @@ The clearest sign showed up in their dashboards.
 While walking us through the dashboard they had built, we noticed that the same numbers meant different things to different people in the room.
 
 For some, the numbers were about running the operation day to day.
+
 For others, they were about judging whether things were going well.
 
 Nobody was reading the numbers wrong.
+
 They just weren't reading the same thing.
 
 And that was the problem. One number, two pictures of how things were going. A team can't head somewhere together when it doesn't share a picture of where it stands
