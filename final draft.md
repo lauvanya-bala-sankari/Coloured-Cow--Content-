@@ -2,7 +2,6 @@
 Why a product that works still needs one clear picture before it can go where it was meant to go.
 
 Your product works. Real users, real workflows, real engineers. It has been shipping for months.
-
 So when someone asks, "Will this take us where we meant to go?", the easy answer is yes. Why wouldn't it? Nothing is broken.
 
 But you notice you hesitate before saying it.
