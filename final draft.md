@@ -2,6 +2,7 @@
 Why a product that works still needs one clear picture before it can go where it was meant to go.
 
 Your product works. Real users, real workflows, real engineers. It has been shipping for months.
+
 So when someone asks, "Will this take us where we meant to go?", the easy answer is yes. Why wouldn't it? Nothing is broken.
 
 But you notice you hesitate before saying it.
@@ -33,14 +34,12 @@ The clearest sign showed up in their dashboards.
 While walking us through the dashboard they had built, we noticed that the same numbers meant different things to different people in the room.
 
 For some, the numbers were about running the operation day to day.
-
 For others, they were about judging whether things were going well.
 
 Nobody was reading the numbers wrong.
-
 They just weren't reading the same thing.
 
-And that was the problem.One number, two pictures of how things were going. A team can't head somewhere together when it doesn't share a picture of where it stands
+And that was the problem. One number, two pictures of how things were going. A team can't head somewhere together when it doesn't share a picture of where it stands
 
 ### So We Started With Design
 
