@@ -1,11 +1,17 @@
-### A Working Product Isn't Always a Legible Product
-Why making sense of what you've already built can be the first step before building what's next.
+### A Working Product Isn’t Always a Legible Product
+Why making your product legible again matters before you build more.
+
 Your product has been working for months. You have real users, real workflows, real engineers. And then, at some point, nothing is obviously broken—but you start wondering: If we keep building the way we are today, will this product actually take us where we want to go? If the honest answer is “I’m not really sure,” it may be time to stop building for a moment and define the product again.
 
-Nothing is Broken, Really ?
+### Nothing is Broken, Really ?
 The problem isn't that something has broken. The problem is that you're starting to lose the ability to know what might break.
 
-Maybe you've noticed it in small moments. Someone asks, “If we change this, what else does it affect?” And the room goes quiet. You can explain what two parts of the product do. But you can't quite explain why changing one quietly changes the other. A feature that should take two days takes two weeks. New engineers take longer to become useful. You ask the engineer who knows the system best what a change will affect. The answer is, “Let me check.”
+Maybe you've noticed it in small moments.
+Someone asks, “If we change this, what else does it affect?” And the room goes quiet.
+You can explain what two parts of the product do. But you can't quite explain why changing one quietly changes the other.
+A feature that should take two days takes two weeks.
+New engineers take longer to become useful.
+You ask the engineer who knows the system best what a change will affect. The answer is, “Let me check.”
 
 Everyone of these problems is survivable. That's the frustrating part. Because nothing is obviously broken. The product still works. Users are still using it. The team is still shipping.
 
@@ -13,12 +19,10 @@ But underneath all of this, something has changed. Everyone can explain their ow
 
 The product has become less legible.
 
-The system has grown, but the shared understanding of the system hasn't kept up.
+### We Saw This at Plio
 
-We Saw This at Plio
 Plio, an education platform (https://www.plio.in/) we partnered with from 2021 to 2023, had already proved its idea as a working product with real users.
-
-But as the product evolved, the team ran into a familiar problem: the product was still working. Nothing was obviously broken. But it was becoming harder to explain what the product meant as a whole.
+But as the product evolved, the team ran into a familiar problem. In one of our early conversations about Plio, the sentiment in the room was clear: nothing was obviously broken, but it was getting harder to explain how all of this fit together.
 
 The clearest sign showed up in their dashboards.
 
@@ -34,9 +38,11 @@ They just weren't reading the same thing.
 
 And that was the problem.
 
-So We Started With Design
-The immediate problem wasn't that Plio needed more features. The team needed a clearer understanding of the product they already had.
+### So We Started With Design
 
+Another moment stood out while we were discussing changes and their side effects. A member of the Plio team put it this way: “Every time we touch one part, we end up worrying about what else it might affect.”
+
+The immediate problem wasn't that Plio needed more features. The team needed a clearer understanding of the product they already had.
 So, we started with design instead of code.
 
 In the first month, we produced more description than features: a clearer definition of the product, the first designs, and the technical specifications underneath them, including the database schema.
@@ -57,18 +63,23 @@ And some things simply needed a simpler form.
 
 Making yourself explain a system is what reveals the parts nobody can explain. Simplicity arrives as a by-product. Aiming for elegance won't get you there.
 
-We Made It Make Sense
+### We Made It Make Sense
+
 As the product evolves, shared understanding tends to devolve. The product keeps working, but somewhere along the way, the direction gets harder to see.
 
 And that's how a working product can slowly lose its way.
 
-That's essentially what we were trying to do with Plio: make the product legible again.
+That’s essentially what we were trying to do with Plio: make the product legible again.
 
 Not by a rewrite. Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
 
 Instead, the picture is rebuilt by explaining the system out loud, part by part, and writing down what that reveals.
 
-Understanding what you have built is a fundamental part of building what comes next. It gives you a clearer direction to move in.
+Understanding what you’ve built is a prerequisite for building what comes next. It doesn’t just reduce risk; it gives the whole team a clearer direction to move in.
 
-The goal isn't to make the product elegant on paper. It's to make the next version obvious.
+The goal isn’t to make the product elegant on paper. It’s to make the next version obvious — not just to the person who wrote it, but to everyone who has to live with it.
+
+
+
+
 
