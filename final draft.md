@@ -17,11 +17,10 @@ A feature that should take two days takes two weeks.
 New engineers take longer to become useful.
 You ask the engineer who knows the system best what a change will affect. The answer is, “Let me check.”
 
-Everyone of these problems is survivable. That's the frustrating part. Because nothing is obviously broken. The product still works. Users are still using it. The team is still shipping.
-
+Everyone of these problems is survivable. That's the frustrating part. Because nothing is obviously broken. 
 But underneath all of this, something has changed. Everyone can explain their own part. No one can quite explain how all of it fits together anymore. And when you look closely, the common thread becomes clear:
 
-The product has become less legible.
+The product has become less legible
 
 ### We Saw This at Plio
 
