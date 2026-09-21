@@ -69,21 +69,23 @@ And some things simply needed a simpler form.
 
 Making yourself explain a system is what reveals the parts nobody can explain. Simplicity arrives as a by-product. Aiming for elegance won't get you there.
 
-### We Made It Make Sense
+### A Working Product Isn't Enough
 
-As the product evolves, shared understanding tends to devolve. The product keeps working, but somewhere along the way, the direction gets harder to see.
+Working only tells you it runs today. It doesn't tell you where it's heading. And a team's shared picture of a product doesn't hold on its own. As the product evolves, it erodes. Each person keeps their own version. The product keeps working, but the direction gets harder to see.
 
-And that's how a working product can slowly lose its way.
+That's how a working product can slowly lose its way.
 
-That’s essentially what we were trying to do with Plio: make the product legible again.
+At Plio, we set out to get the team back to one picture. Not by a rewrite. Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
 
-Not by a rewrite. Not by documenting everything that existed. Not by adding another layer of process. And not by redesigning things for the sake of elegance.
+We did it by explaining the system out loud, part by part, and writing down what that revealed. The designs and specs weren't the point. The understanding they forced was.
 
-Instead, the picture is rebuilt by explaining the system out loud, part by part, and writing down what that reveals.
+Understanding what you've built comes before building what's next. It doesn't just reduce risk. It's what lets a team head somewhere on purpose.
 
-Understanding what you’ve built is a prerequisite for building what comes next. It doesn’t just reduce risk; it gives the whole team a clearer direction to move in.
+So go back to the question at the start: "Will this take us where we meant to go?"
 
-The goal isn’t to make the product elegant on paper. It’s to make the next version obvious — not just to the person who wrote it, but to everyone who has to live with it.
+A working product can't answer that. A legible one can, because everyone can see where it stands.
+
+The goal isn't a product that's elegant on paper. It's a next version that's obvious, not just to the person who wrote it, but to everyone who has to live with it.
 
 
 
