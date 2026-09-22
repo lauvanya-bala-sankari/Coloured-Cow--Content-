@@ -25,6 +25,8 @@ Nothing is broken. But it feels like your own product is keeping secrets from yo
 
 This happens when a product develops a gap between working and legible.
 
-Working means it runs today. Legible means the whole team can see where it's going.
+A working product runs. A legible product can be steered, because everyone sees the same picture of it.
 
-And a legible product is what lets a team head somewhere on purpose.
+If you can't see how the parts fit together, you can't steer them anywhere on purpose. That's what a legible product gives you back.
+
+That's why a working product isn't always a legible one.
