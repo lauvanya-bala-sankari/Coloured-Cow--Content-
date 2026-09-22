@@ -23,10 +23,8 @@ Everyone on the team can explain their own part. But no one can quite explain ho
 
 Nothing is broken. But it feels like your own product is keeping secrets from you. That's what makes it so hard to name.
 
-This happens when a product develops a gap between working and legible.
+A working product runs. A legible one can be steered, because everyone still sees the same picture of it.
 
-A working product runs. A legible product can be steered, because everyone sees the same picture of it.
+Without that, every change is a guess. Nobody can move the product on purpose, only react to what it does.
 
-If you can't see how the parts fit together, you can't steer them anywhere on purpose. That's what a legible product gives you back.
-
-That's why a working product isn't always a legible one.
+That's why working isn't enough.
