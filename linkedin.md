@@ -16,19 +16,20 @@ We wrote about how we think through that, and one project-- Plio , where we saw 
 
 
 ### founders linkedin 
+
 When you have a working product, and you realize working isn't enough.
 
-Its a strange moment, Everything runs. Real users, real workflows, real engineers. 
-Everyone on the team can explain their own part but  No one can quite explain how changing one quietly affects other.
+It's a strange moment. Everything runs. Real users, real workflows, real engineers.
 
-Nothing is broken but it feels like your own product is keeping secrets from you .
-That's what makes it so hard to name.
+Everyone on the team can explain their own part. But no one can quite explain how changing one quietly affects the other.
 
-this happened because somewhere along the way the product developed a gap between a working one and a legible one.
-Working means it runs today. Legible means the whole team can see where it's going. 
+Nothing is broken. But it feels like your own product is keeping secrets from you. That's what makes it so hard to name.
 
-the legible product is what lets a team head somewhere on purpose.
+A working product runs. A legible one can be steered, because everyone still sees the same picture of it.
 
+Without that, every change is a guess. Nobody can move the product on purpose, only react to what it does.
+
+That's why working isn't enough.
 
 
 
